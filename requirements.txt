@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+python-dotenv
+httpx
+pandas
+PyPDF2
+python-docx
+passlib[bcrypt]
+pymilvus
+streamlit
+Pillow
+openpyxl
